@@ -1,0 +1,31 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Deff",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.pug",
+    "build": "parcel build index.pug"
+  },
+  "dependencies": {
+    "abstracts": "^0.2.3",
+    "gsap": "^3.5.1",
+    "postcss-modules": "^1.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.6",
+    "cssnano": "^4.1.8",
+    "pug": "^3.0.0",
+    "sass": "^1.16.1"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {
+        "overrideBrowserslist": [
+          "last 4 versions"
+        ]
+      }
+    }
+  }
+}
