@@ -5,8 +5,9 @@
   "author": "Deff",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel index.pug",
-    "build": "parcel build index.pug"
+    "dev": "parcel *.pug",
+    "start": "parcel index.pug --open",
+    "build": "parcel build *.pug"
   },
   "dependencies": {
     "abstracts": "^0.2.3",

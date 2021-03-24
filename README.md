@@ -15,6 +15,6 @@ You can install Parcel either using npm or yarn. You'll also need to create a pa
 **yarn:**
 ```
 yarn
-yarn dev
+yarn start
 yarn build
 ```

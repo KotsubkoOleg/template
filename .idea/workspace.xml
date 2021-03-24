@@ -11,7 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96d35f94-e644-42b3-9962-0be56be6a116" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htmlnanorc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/IBMPlexMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/layout/_layout.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +50,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -68,7 +77,10 @@
       <updated>1606905241244</updated>
       <workItem from="1606905242387" duration="929000" />
       <workItem from="1606906266928" duration="877000" />
-      <workItem from="1606907163501" duration="3843000" />
+      <workItem from="1606907163501" duration="4071000" />
+      <workItem from="1608730106784" duration="79000" />
+      <workItem from="1609247458340" duration="19000" />
+      <workItem from="1616581298092" duration="2336000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1606910790368</created>
@@ -84,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606910825226</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit 3">
+      <created>1606911618006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606911618007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,17 +124,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit 2" />
+    <MESSAGE value="initial commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606908453683">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="435" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606908453683" />
-    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1606910825126">
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1606911617864">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606910825126" />
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606911617864" />
     <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1606908980638">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -136,10 +156,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="501" y="105" key="RollbackChangesDialog/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606909319745" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1606910831947">
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1606911621234">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606910831947" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/-568.-1417.2560.1417@0.23.1440.877" timestamp="1606911621234" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1606905821732">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
