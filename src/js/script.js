@@ -1,4 +1,4 @@
-import '/app/scss/style.scss';
+import '../scss/style.scss';
 
 import Menu from './menu'
 

@@ -5,14 +5,14 @@
   "author": "Deff",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel *.pug",
-    "start": "parcel index.pug --open",
-    "build": "parcel build *.pug"
+    "start": "parcel src/index.pug --open",
+    "build": "parcel build src/*"
   },
   "dependencies": {
     "abstracts": "^0.2.3",
     "gsap": "^3.5.1",
-    "postcss-modules": "^1.4.1"
+    "postcss-modules": "^1.4.1",
+    "scss": "^0.2.4"
   },
   "devDependencies": {
     "autoprefixer": "^9.4.6",
